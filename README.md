@@ -29,7 +29,7 @@ This project simulates a basic heater control system using an ESP32 microcontrol
     ```
 - **FreeRTOS**: Included with the ESP32 platform by default.
 
-## Circuit Diagram
+## Pin Connections
 Here’s how the components are connected to the ESP32:
 
 - **DHT22 Pinout**:
